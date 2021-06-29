@@ -34,7 +34,7 @@ def intro(sys_lang):
 		case "ja""
 			print "出会うは縁の一つだ";
 			break;
-		case "":
+		case "ru":
 			echo "В любом случае, приятно познакомиться, товарищ";
 	}
 
