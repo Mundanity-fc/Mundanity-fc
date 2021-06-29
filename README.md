@@ -32,7 +32,7 @@ def intro(sys_lang):
 		case "en_US":
 			print("You will find me in other place.");
 			break;
-		case "ja""
+		case "ja"
 			print "出会うは縁の一つだ";
 			break;
 		case "ru":
