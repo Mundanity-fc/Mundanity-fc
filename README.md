@@ -26,7 +26,7 @@ def intro(sys_lang):
 //REMEMBER: No switch-case in Python
 	switch("sys_lang"){
 		case "zh_CN":
-			echo("全栈开发，啥都要干");
+			echo("我可以做很多事情，但大多都是出于兴趣");
 			break;
 		case "en_US":
 			print("You will find me in other place.");
