@@ -20,7 +20,7 @@ public class Programmer{ //A Java Style Class
 {!--But this is C++--!}
 
 if(User.name in ["申酉和风","Mundanity Fan","MundanityFC","ムラビトФанси"]){
-	intro($sys_lang);
+	intro($sys_lang);//VAR in PHP is easy to find, isn't it?
 }
 
 def intro(sys_lang):
