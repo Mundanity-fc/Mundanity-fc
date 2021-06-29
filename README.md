@@ -1,5 +1,6 @@
 ### Let's play a game!
-
+### How many languages did I use?
+------
 ```
 [root@mundanity-archlinux ~]#clear //Try to clear your terminal :)
 [root@mundanity-archlinux ~]#cat ./intro.???
@@ -53,8 +54,8 @@ END.
 </self_intro>
 ```
 
-### How many languages did I use?
+
 
 ------
 
-~~Answer is 4 : Chinese, English, Japanese and Russian~~
+#### ~~Answer is 4 : Chinese, English, Japanese and Russian~~
