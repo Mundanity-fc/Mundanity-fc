@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other   52 mins         █████████████████████░░░░   84.59 %
+PHP   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
