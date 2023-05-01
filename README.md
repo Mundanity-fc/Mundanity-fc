@@ -4,12 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++              1 hr 32 mins    █████████████▒░░░░░░░░░░░   53.78 %
-Python           46 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
-Text             13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Markdown         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-ObjectiveC       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
