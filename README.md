@@ -4,9 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 mins          ████████████████████████▒   97.08 %
-Text             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown         7 mins          █████████████▓░░░░░░░░░░░   54.52 %
+PHP              5 mins          ██████████▒░░░░░░░░░░░░░░   41.82 %
+GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
