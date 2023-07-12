@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   9 mins          ███████████████░░░░░░░░░░   59.75 %
-HTML       6 mins          ██████████░░░░░░░░░░░░░░░   39.74 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
