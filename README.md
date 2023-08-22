@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Groovy   3 mins          ██████████████▒░░░░░░░░░░   57.64 %
+Python   2 mins          ██████████▓░░░░░░░░░░░░░░   42.36 %
 ```
 
 <!--END_SECTION:waka-->
