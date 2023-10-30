@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              12 mins         ███████████████▓░░░░░░░░░   62.31 %
-SQL              5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Assembly         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-ActionScript 3   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Text             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
