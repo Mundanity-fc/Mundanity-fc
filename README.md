@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         1 hr 7 mins     █████████████░░░░░░░░░░░░   51.88 %
+Vue.js       26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+Markdown     22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+TypeScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
