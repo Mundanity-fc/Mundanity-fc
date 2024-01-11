@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       14 mins         ███████████▓░░░░░░░░░░░░░   46.93 %
-PHP          12 mins         ██████████░░░░░░░░░░░░░░░   39.89 %
-Python       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
