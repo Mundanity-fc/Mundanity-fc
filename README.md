@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++     5 mins          ████████████████████████▓   98.07 %
-CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
