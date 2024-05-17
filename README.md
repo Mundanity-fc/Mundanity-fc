@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 2 mins    ██████████████████░░░░░░░   72.24 %
-Batchfile          17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Markdown           12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-textmate           8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-GitIgnore file     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
