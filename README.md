@@ -4,7 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              6 mins          ███████████████▒░░░░░░░░░   61.21 %
+ObjectiveC       3 mins          █████████░░░░░░░░░░░░░░░░   35.70 %
+CMake            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
