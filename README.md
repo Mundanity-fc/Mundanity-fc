@@ -4,9 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       8 mins          ████████████████████████▓   98.65 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Vue.js     8 mins          █████████████████████████   99.99 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
