@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-.env file   0 secs          █████████████████████▒░░░   85.26 %
-Text        0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
