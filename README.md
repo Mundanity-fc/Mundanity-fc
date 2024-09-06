@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       2 mins          █████████████▒░░░░░░░░░░░   53.55 %
-Vue.js     1 min           █████████▒░░░░░░░░░░░░░░░   37.23 %
-Markdown   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
