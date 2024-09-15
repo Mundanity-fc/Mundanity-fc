@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         44 mins         ██████████████░░░░░░░░░░░   56.37 %
-JSON               31 mins         █████████▓░░░░░░░░░░░░░░░   39.33 %
-Requirements.txt   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Markdown           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Requirements.txt   1 min           ███████████████████▒░░░░░   77.81 %
+PythonStub         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+Python             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
