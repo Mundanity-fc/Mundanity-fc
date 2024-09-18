@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Requirements.txt   1 min           ███████████████████▒░░░░░   77.81 %
-PythonStub         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Python             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
