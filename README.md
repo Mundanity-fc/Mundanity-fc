@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         16 mins         ███████████████▒░░░░░░░░░   61.82 %
-INI                6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-PHP                1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Python             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Text               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
