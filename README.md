@@ -4,10 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gettext Catalog   2 mins          ██████████████▓░░░░░░░░░░   58.13 %
-Python            0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-Objective-C       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Locale            0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Gettext Catalog   1 min           ██████████████████▓░░░░░░   74.42 %
+Objective-C       0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
 ```
 
 <!--END_SECTION:waka-->
