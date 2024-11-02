@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gettext Catalog   1 min           ██████████████████▓░░░░░░   74.42 %
-Objective-C       0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+Objective-C   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
