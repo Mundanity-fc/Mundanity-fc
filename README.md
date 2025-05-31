@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-INI   14 mins         ███████████████░░░░░░░░░░   60.43 %
-PHP   9 mins          ██████████░░░░░░░░░░░░░░░   39.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
