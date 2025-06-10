@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake      7 mins          ███████████████████▒░░░░░   77.95 %
+Markdown   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
 ```
 
 <!--END_SECTION:waka-->
