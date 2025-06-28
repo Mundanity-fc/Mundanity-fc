@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       14 mins         █████████▓░░░░░░░░░░░░░░░   38.58 %
-Vue.js     9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-YAML       8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.34 %
-EJS        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Stylus     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
