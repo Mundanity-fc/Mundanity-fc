@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.46 %
-Other              1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   28.10 %
-Text               26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Shell Script       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Requirements.txt   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other              3 hrs 15 mins   ██████████████░░░░░░░░░░░   56.27 %
+Python             1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   28.16 %
+Text               26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Shell Script       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Requirements.txt   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
