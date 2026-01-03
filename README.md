@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             15 hrs 34 mins  ████████████████▓░░░░░░░░   66.93 %
-Other              7 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.00 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       11 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.77 %
+Other        8 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.23 %
+PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
