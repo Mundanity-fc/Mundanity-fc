@@ -4,9 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 hrs 20 mins  ███████████████████████░░   91.95 %
-Other        1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       9 hrs 26 mins   ██████████████████████▒░░   88.75 %
+Other        1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
