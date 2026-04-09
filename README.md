@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++           1 hr 46 mins          ██████████████████████▒░░   89.07 %
-C/C           7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Makefile      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-CMake         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Python        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
