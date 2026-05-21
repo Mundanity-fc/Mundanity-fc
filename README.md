@@ -4,8 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      3 hrs 50 mins         █████████████████▓░░░░░░░   70.12 %
-Markdown   1 hr 38 mins          ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+Other              3 hrs 50 mins         ██████████████░░░░░░░░░░░   56.27 %
+Markdown           1 hr 39 mins          ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+Python             38 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Requirements.txt   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+YAML               15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
