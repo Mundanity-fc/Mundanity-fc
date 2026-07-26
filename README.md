@@ -1,18 +1,15 @@
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=Mundanity-fc&hide=stars&count_private=true&show_icons=true&theme=prussian)[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mundanity-fc&hide=javascript,html,css,blade&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+# Lifetime Fish Touching Status 终生摸鱼状态
+
+Hi there🖐️
+
+<a href="https://github-stats-extended.vercel.app/api?username=Mundanity-fc">
+  <img height=350 align="center" src="https://github-stats-extended.vercel.app/api?username=Mundanity-fc&rank_icon=percentile&custom_title=Total%20Life%20Fish%20Touching%20Status&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=onedark" />
+</a>
+<a href="https://github-stats-extended.vercel.app/api?username=Mundanity-fc">
+  <img height=350 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Mundanity-fc&hide=css,html,javascript&layout=pie&langs_count=10&theme=onedark" />
+</a>
 
 # Last Weeek Status 上周的摸鱼状态
-<!--START_SECTION:waka-->
-
-```txt
-Python            5 hrs 51 mins         ████████████████████▓░░░░   82.05 %
-C++               39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-JSON              11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Markdown          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-CSV               5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
-## Under Construction
+<a href="https://github-stats-extended.vercel.app/api?username=Mundanity-fc">
+  <img height=400 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=Mundanity&custom_title=Last%20Week%20Fish%20Touching%20Status&langs_count=6&theme=onedark" />
+</a>
