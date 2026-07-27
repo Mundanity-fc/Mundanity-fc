@@ -2,7 +2,7 @@ name: Metrics Update
 
 on:
   schedule:
-    - cron: '10 * * * *' # runs at every 12AM UTC
+    - cron: '0 0 * * *'
 
 jobs:
   Full-Calendar:
