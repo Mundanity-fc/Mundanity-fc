@@ -16,7 +16,7 @@ Only coding when it's necessary, that's what we call *fish-touching*.
 
 # Last Weeek Status 上周的摸鱼状态
 
-Here you can find whether did I have nice days last week, I hope the answer is **YES**.
+Here you can find whether I had nice days last week, I hope the answer is **YES**.
 
 <a href="https://github-stats-extended.vercel.app/api?username=Mundanity-fc">
   <img height=400 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=Mundanity&custom_title=Last%20Week%20Fish%20Touching%20Status&langs_count=6&theme=onedark" />
